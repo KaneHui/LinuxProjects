@@ -1,6 +1,4 @@
-<center>
-# **LinuxProjects** #
-</center>
+# Linux Projects #
 
 
 ## prompt-color-using-tput介绍 ##
