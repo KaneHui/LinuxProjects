@@ -10,4 +10,5 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 
 ### 参考资料 ###
 [linux下tput命令详解](http://blog.51cto.com/297020555/491954)  
-[tput 命令行使用说明](http://blog.csdn.net/fdipzone/article/details/9993961)
+[tput 命令行使用说明](http://blog.csdn.net/fdipzone/article/details/9993961)  
+[Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)
