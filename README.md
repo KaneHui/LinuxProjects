@@ -15,3 +15,5 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
 [Unix编程艺术，Unix哲学](http://blog.jobbole.com/1295/)  
 [Linux：黑客传说](http://blog.jobbole.com/1517/)  
+[Linux中的两种文件锁---协同锁与强制锁](http://blog.jobbole.com/16882/)  
+
