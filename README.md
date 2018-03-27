@@ -22,4 +22,5 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 - [Linux系统IP路由基础（第1部分）](http://blog.jobbole.com/19235/)  
 - [定位 UNIX 上常见问题的经验总结](http://blog.jobbole.com/22133/)  
 - [Linux中最受欢迎的邮件传输代理（MTA）](http://blog.jobbole.com/21741/)  
+- [(())与()还有${}差在哪？](http://wiki.jikexueyuan.com/project/13-questions-of-shell/eight.html)  
 
