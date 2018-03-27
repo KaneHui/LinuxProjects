@@ -10,10 +10,12 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 
 ### 参考资料 ###
 
+- [developerWorks®Linux](https://www.ibm.com/developerworks/cn/linux/)
+- [Learn Linux The Hard Way](https://github.com/wizardforcel/llthw-zh)
+- [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
 - [linux下tput命令详解](http://blog.51cto.com/297020555/491954)  
 - [tput 命令行使用说明](http://blog.csdn.net/fdipzone/article/details/9993961)  
 - [28个Unix/Linux的命令行神器](http://blog.jobbole.com/23638/)  
-- [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
 - [Unix编程艺术，Unix哲学](http://blog.jobbole.com/1295/)  
 - [陈皓：用Unix的设计思想来应对多变的需求](http://blog.jobbole.com/18797/)  
 - [Linux：黑客传说](http://blog.jobbole.com/1517/)  
@@ -22,5 +24,8 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 - [Linux系统IP路由基础（第1部分）](http://blog.jobbole.com/19235/)  
 - [定位 UNIX 上常见问题的经验总结](http://blog.jobbole.com/22133/)  
 - [Linux中最受欢迎的邮件传输代理（MTA）](http://blog.jobbole.com/21741/)  
-- [(())与()还有${}差在哪？](http://wiki.jikexueyuan.com/project/13-questions-of-shell/eight.html)  
+- [What is RADIUS Server and best free RADIUS Server for Linux](http://blog.jobbole.com/22367/)
+- [在 Linux 上构建一个 RADIUS 服务器](https://www.ibm.com/developerworks/cn/linux/l-radius/)
+
+  
 
