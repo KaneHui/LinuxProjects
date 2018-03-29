@@ -9,7 +9,6 @@ if [ "$1" = "-p" ] ; then
 else
     precision=2 #default
 fi
-echo "precision:$precision"
 
 bc -q -l << EOF
 scale=$precision
