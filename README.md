@@ -14,11 +14,14 @@
 3 [调试器工作原理（3）：调试信息](http://blog.jobbole.com/24916/)  
 4 [定位 UNIX 上常见问题的经验总结](http://blog.jobbole.com/22133/)  
 5 [Linux 内核 3.3 和 3.4 简介](http://blog.jobbole.com/24419/)  
-6 [王垠：Unix的缺陷](http://blog.jobbole.com/25792/)
+6 [王垠：Unix的缺陷](http://blog.jobbole.com/25792/)  
+7 [Linux 灾难恢复](http://blog.jobbole.com/27956/)  
+8 [Linux kernel测试初探](http://blog.jobbole.com/31690/)  
 
 **文件系统**
 >
-1 [Linux中的两种文件锁---协同锁与强制锁](http://blog.jobbole.com/16882/) 
+1 [Linux中的两种文件锁---协同锁与强制锁](http://blog.jobbole.com/16882/)  
+2 [syslog：类Unix系统常用的log服务](http://blog.jobbole.com/29633/)
 
 **网络原理**
 >
@@ -39,9 +42,13 @@
 1 [28个Unix/Linux的命令行神器](http://blog.jobbole.com/23638/)    
 2 [8 个实用的 Linux netcat 命令示例](http://blog.jobbole.com/18131/)  
 3 [阮一峰：读懂 diff](http://blog.jobbole.com/26251/)  
+4 [命令行是你的至交好友](http://blog.jobbole.com/35885/)  
+5 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)  
+6 [awk内置字符串函数详解](https://www.linuxsong.org/2010/09/awk-string-function/)
 
- 
-
+**黑客** 
+>
+1 [一次Linux服务器被hack的过程分析](http://blog.jobbole.com/21294/)
 
 **Linux 思想**
 >
@@ -62,4 +69,8 @@
 
 **其它**
 >  
-1 [5个最佳免费Linux杀毒软件](http://blog.jobbole.com/23304/)
+1 [5个最佳免费Linux杀毒软件](http://blog.jobbole.com/23304/)  
+2 [提问的智慧](http://blog.jobbole.com/28784/)  
+3 [重做Unix命令，快速有效学习新语言](http://blog.jobbole.com/29844/)  
+4 [开源史上最成功的八个开源产品](http://blog.jobbole.com/179/)  
+5 [SpaceX：航天运载软件开发的经验教训](http://blog.jobbole.com/36780/)
