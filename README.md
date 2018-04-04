@@ -21,7 +21,9 @@
 **文件系统**
 >
 1 [Linux中的两种文件锁---协同锁与强制锁](http://blog.jobbole.com/16882/)  
-2 [syslog：类Unix系统常用的log服务](http://blog.jobbole.com/29633/)
+2 [syslog：类Unix系统常用的log服务](http://blog.jobbole.com/29633/)  
+3 [理解 Linux 的硬链接与软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)  
+4 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)
 
 **网络原理**
 >
@@ -30,11 +32,18 @@
 3 [What is RADIUS Server and best free RADIUS Server for Linux](http://blog.jobbole.com/22367/)  
 4 [在 Linux 上构建一个 RADIUS 服务器](https://www.ibm.com/developerworks/cn/linux/l-radius/)  
 5 [小措施提高Linux服务器安全](http://blog.jobbole.com/25484/)  
+6 [Linux Netcat命令：网络工具中的瑞士军刀](http://blog.jobbole.com/38067/)  
+7 [配置SecureCRT连接本地虚拟机中的Linux系统](http://www.pythoner.com/196.html)  
+8 [使用SecureCRT的SFTP在WINDOWS与LINUX之间传输文件](https://www.cnblogs.com/xwdreamer/p/3673397.html)  
+9 [sftp-from-unix-server-to-window](https://unix.stackexchange.com/questions/140918/sftp-from-unix-server-to-window)  
+10 
 
 
-**面试**
+**Linux管理**
 >
-1 [陈皓：一个 fork 的面试题](http://blog.jobbole.com/24686/)
+1 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)   
+2 [使用Shell脚本对Linux系统和进程资源进行监控](http://blog.jobbole.com/22318/)  
+3 
 
 
 **命令行**  
@@ -43,8 +52,18 @@
 2 [8 个实用的 Linux netcat 命令示例](http://blog.jobbole.com/18131/)  
 3 [阮一峰：读懂 diff](http://blog.jobbole.com/26251/)  
 4 [命令行是你的至交好友](http://blog.jobbole.com/35885/)  
-5 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)  
-6 [awk内置字符串函数详解](https://www.linuxsong.org/2010/09/awk-string-function/)
+5 [awk内置字符串函数详解](https://www.linuxsong.org/2010/09/awk-string-function/) 
+6 [linux shell 的here document 用法 (cat << EOF)](https://my.oschina.net/u/1032146/blog/146941)  
+7 [UNIX 系统中的文本操作简介](http://blog.jobbole.com/19641/)  
+8 [高效使用Top](http://blog.jobbole.com/38381/)  
+9 [趣文：有趣的 Linux 命令](http://blog.jobbole.com/41129/)  
+10 [quota命令](http://man.linuxde.net/quota)
+
+
+**面试**
+>
+1 [陈皓：一个 fork 的面试题](http://blog.jobbole.com/24686/)
+
 
 **黑客** 
 >
@@ -66,6 +85,7 @@
 1 [developerWorks®Linux](https://www.ibm.com/developerworks/cn/linux/)  
 2 [Learn Linux The Hard Way](https://github.com/wizardforcel/llthw-zh)  
 3 [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
+4 [开源中国](https://www.oschina.net/project)
 
 **其它**
 >  
@@ -73,4 +93,10 @@
 2 [提问的智慧](http://blog.jobbole.com/28784/)  
 3 [重做Unix命令，快速有效学习新语言](http://blog.jobbole.com/29844/)  
 4 [开源史上最成功的八个开源产品](http://blog.jobbole.com/179/)  
-5 [SpaceX：航天运载软件开发的经验教训](http://blog.jobbole.com/36780/)
+5 [SpaceX：航天运载软件开发的经验教训](http://blog.jobbole.com/36780/)  
+6 [如何在 Linux 上安装应用程序](http://blog.jobbole.com/113793/)  
+7 [关于 shell 脚本编程的10 个最佳实践](http://blog.jobbole.com/16604/)  
+8 [如何在安装双启动后卸载 Windows 或者 Linux](http://blog.jobbole.com/40278/)  
+9 
+
+
