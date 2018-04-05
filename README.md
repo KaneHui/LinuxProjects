@@ -36,7 +36,17 @@
 7 [配置SecureCRT连接本地虚拟机中的Linux系统](http://www.pythoner.com/196.html)  
 8 [使用SecureCRT的SFTP在WINDOWS与LINUX之间传输文件](https://www.cnblogs.com/xwdreamer/p/3673397.html)  
 9 [sftp-from-unix-server-to-window](https://unix.stackexchange.com/questions/140918/sftp-from-unix-server-to-window)  
-10 
+10 [在Nginx下对网站进行密码保护](http://blog.jobbole.com/41036/)  
+11 
+
+**算法**
+>
+1 [为什么 GNU grep 如此之快？](http://blog.jobbole.com/52313/)  
+2 [几种压缩算法实现原理详解](https://blog.csdn.net/ghevinn/article/details/45747465)  
+3 [What is the best text compression algorithm?](https://www.quora.com/What-is-the-best-text-compression-algorithm)  
+4 [What is the current state of text-only compression algorithms?](https://stackoverflow.com/questions/236456/what-is-the-current-state-of-text-only-compression-algorithms)
+
+
 
 
 **Linux管理**
@@ -57,7 +67,10 @@
 7 [UNIX 系统中的文本操作简介](http://blog.jobbole.com/19641/)  
 8 [高效使用Top](http://blog.jobbole.com/38381/)  
 9 [趣文：有趣的 Linux 命令](http://blog.jobbole.com/41129/)  
-10 [quota命令](http://man.linuxde.net/quota)
+10 [quota命令](http://man.linuxde.net/quota)  
+11 [对 Linux 新手非常有用的20个命令](http://blog.jobbole.com/45335/)  
+12 [对中级 Linux 用户非常有用的 20 个命令](http://blog.jobbole.com/45377/)  
+13 
 
 
 **面试**
@@ -97,6 +110,6 @@
 6 [如何在 Linux 上安装应用程序](http://blog.jobbole.com/113793/)  
 7 [关于 shell 脚本编程的10 个最佳实践](http://blog.jobbole.com/16604/)  
 8 [如何在安装双启动后卸载 Windows 或者 Linux](http://blog.jobbole.com/40278/)  
-9 
+9 [Ubuntu桌面生存指南(1)：选择 Linux](http://blog.jobbole.com/29546/)  
 
 
