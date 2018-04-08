@@ -48,12 +48,12 @@
 
 
 
-
 **Linux管理**
 >
 1 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)   
 2 [使用Shell脚本对Linux系统和进程资源进行监控](http://blog.jobbole.com/22318/)  
-3 
+3 [如何保证Linux服务器的安全](http://blog.jobbole.com/48195/)  
+4 [4个Linux服务器监控工具](http://blog.jobbole.com/58003/)  
 
 
 **命令行**  
@@ -70,7 +70,8 @@
 10 [quota命令](http://man.linuxde.net/quota)  
 11 [对 Linux 新手非常有用的20个命令](http://blog.jobbole.com/45335/)  
 12 [对中级 Linux 用户非常有用的 20 个命令](http://blog.jobbole.com/45377/)  
-13 
+13 [高效Linux用户需要了解的命令行技能](http://blog.jobbole.com/46976/)  
+14 [一些实用但不为人知的Unix命令](http://blog.jobbole.com/66590/)  
 
 
 **面试**
@@ -111,5 +112,13 @@
 7 [关于 shell 脚本编程的10 个最佳实践](http://blog.jobbole.com/16604/)  
 8 [如何在安装双启动后卸载 Windows 或者 Linux](http://blog.jobbole.com/40278/)  
 9 [Ubuntu桌面生存指南(1)：选择 Linux](http://blog.jobbole.com/29546/)  
+10 [UNIX 高手的 10 个习惯](https://www.ibm.com/developerworks/cn/aix/library/au-badunixhabits.html)  
+11 [UNIX 高手的另外 10 个习惯](https://www.ibm.com/developerworks/cn/aix/library/au-unixtips/)  
+12 [每个极客都应该知道的Linux技巧](http://blog.jobbole.com/60549/)  
+13 [每个Linux用户都应该知道的命令行技巧](http://blog.jobbole.com/54425/)  
 
 
+**学习资料**
+
+>
+1 [10本Linux免费电子书](http://blog.jobbole.com/8139/)  

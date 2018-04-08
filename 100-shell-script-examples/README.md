@@ -115,6 +115,22 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 
 
 
+
+
+**043-mkslocate.sh 解析**
+
+### 参考资料 ###
+ 
+>
+
+
+
+- [locate 工作原理](https://blog.csdn.net/Toormi/article/details/50993874)
+- [locate 数据库权限分析](https://blog.csdn.net/Toormi/article/details/51137888)
+
+
+
+
  
 - [Shell正则表达式](http://www.jb51.net/tools/shell_regex.html)  
 
