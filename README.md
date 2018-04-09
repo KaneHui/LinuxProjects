@@ -17,6 +17,11 @@
 6 [王垠：Unix的缺陷](http://blog.jobbole.com/25792/)  
 7 [Linux 灾难恢复](http://blog.jobbole.com/27956/)  
 8 [Linux kernel测试初探](http://blog.jobbole.com/31690/)  
+9 [OSdev](https://wiki.osdev.org/Main_Page)  
+10 [成为Linux内核高手的四个方法](http://blog.jobbole.com/54833/)  
+11 [Linux 内存使用方法详细解析](http://blog.jobbole.com/45748/)  
+12 [Linux内存点滴：用户进程内存空间](http://blog.jobbole.com/45733/)  
+13 [Linux 的启动流程](http://blog.jobbole.com/46078/)  
 
 **文件系统**
 >
@@ -72,6 +77,7 @@
 12 [对中级 Linux 用户非常有用的 20 个命令](http://blog.jobbole.com/45377/)  
 13 [高效Linux用户需要了解的命令行技能](http://blog.jobbole.com/46976/)  
 14 [一些实用但不为人知的Unix命令](http://blog.jobbole.com/66590/)  
+15 [37条常用Linux Shell命令组合](http://blog.jobbole.com/48173/)  
 
 
 **面试**
@@ -116,9 +122,12 @@
 11 [UNIX 高手的另外 10 个习惯](https://www.ibm.com/developerworks/cn/aix/library/au-unixtips/)  
 12 [每个极客都应该知道的Linux技巧](http://blog.jobbole.com/60549/)  
 13 [每个Linux用户都应该知道的命令行技巧](http://blog.jobbole.com/54425/)  
+14 [使用 Python 获取 Linux 系统信息](http://blog.jobbole.com/44644/)  
+15 [Linux Shell 编程实战技巧](http://blog.jobbole.com/48717/)  
 
 
 **学习资料**
 
 >
 1 [10本Linux免费电子书](http://blog.jobbole.com/8139/)  
+2 [为学Linux，我看了这些书](http://blog.jobbole.com/45387/)
