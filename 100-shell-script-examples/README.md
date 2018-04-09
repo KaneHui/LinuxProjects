@@ -111,25 +111,66 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 - [awk内建变量示例详解之NR、FNR、NF](http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/)
 
 
-**039-fquota.sh 解析**
+## 039-fquota.sh 解析 ##
 
 
 
 
 
-**043-mkslocate.sh 解析**
+## 043-mkslocate.sh 解析 ##
 
 ### 参考资料 ###
  
 >
 
 
-
-- [locate 工作原理](https://blog.csdn.net/Toormi/article/details/50993874)
-- [locate 数据库权限分析](https://blog.csdn.net/Toormi/article/details/51137888)
-
+- [locate 工作原理](https://blog.csdn.net/Toormi/article/details/50993874)  
+- [locate 数据库权限分析](https://blog.csdn.net/Toormi/article/details/51137888)  
 
 
+## 046-deleteuser.sh 解析   
+该脚本的用法如下：  
+
+	046-deleteuser.sh account
+
+
+
+
+## 047-validator.sh 解析   
+该脚本的用法如下：  
+
+	047-validator.sh   
+
+该脚本的作用是检查SHELL、HOME、PATH、EDITOR、MAIL、PAGER这几个环境变量是否有效、可执行。
+
+
+## 048-fixguest.sh 解析   
+该脚本的用法如下：  
+
+	048-fixguest.sh  
+
+该脚本的作用是在guest用户退出时，清理guest用户目录下的临时文件。
+
+## 049-finduid.sh 解析   
+该脚本的用法如下：  
+
+	049-finduid.sh  
+
+该脚本的作用是查找所有设置了UID的文件和程序，并检查在7天内修改过的程序、以及可写的文件。
+
+### 参考资料 ###
+ 
+>
+
+- [linux特殊权限:setUid, setGid, 粘着位(sticky)](https://blog.csdn.net/liuyuan_jq/article/details/1819085)  
+- [shell find 用法](http://henry-cong.iteye.com/blog/814535)  
+
+
+
+##051-enabled.sh 解析   
+该脚本的用法如下： 
+
+- [inetd 守护程序](https://www.ibm.com/support/knowledgecenter/zh/ssw_aix_72/com.ibm.aix.cmds3/inetd.htm)
 
  
 - [Shell正则表达式](http://www.jb51.net/tools/shell_regex.html)  
