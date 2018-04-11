@@ -167,11 +167,49 @@ UNIX 系统上的 terminfo 数据库用于定义终端和打印机的属性及�
 
 
 
+
 ##051-enabled.sh 解析   
 该脚本的用法如下： 
 
 - [inetd 守护程序](https://www.ibm.com/support/knowledgecenter/zh/ssw_aix_72/com.ibm.aix.cmds3/inetd.htm)
 
+
+
+
+
+## 056-backup.sh 解析   
+该脚本的用法如下：  
+
+	056-backup.sh  
+
+该脚本的作用是。
+
+### 参考资料 ###
+ 
+>
+- [差异备份、增量备份、完全备份的区别](https://my.oschina.net/zhailibao2010/blog/203858)
+
+
+
+## 059-ftpget.sh 解析   
+该脚本的用法如下：  
+
+	059-ftpget.sh  
+
+该脚本的作用是。
+
+
+- [linux远程下载文件 的两种方法之 ftp命令和scp命令](http://www.cnblogs.com/weafer/archive/2011/06/13/2079509.html)
+
+
+
+## 060-bbcnews.sh 解析   
+该脚本的用法如下：  
+
+	060-bbcnews.sh  
+
+该脚本的作用是。
+- [Lynx](http://wiki.ubuntu.org.cn/Lynx)
  
 - [Shell正则表达式](http://www.jb51.net/tools/shell_regex.html)  
 
