@@ -28,7 +28,8 @@
 1 [Linux中的两种文件锁---协同锁与强制锁](http://blog.jobbole.com/16882/)  
 2 [syslog：类Unix系统常用的log服务](http://blog.jobbole.com/29633/)  
 3 [理解 Linux 的硬链接与软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)  
-4 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)
+4 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)  
+5 [给 Linux 系统“减肥”](http://blog.jobbole.com/49497/)  
 
 **网络原理**
 >
@@ -42,7 +43,9 @@
 8 [使用SecureCRT的SFTP在WINDOWS与LINUX之间传输文件](https://www.cnblogs.com/xwdreamer/p/3673397.html)  
 9 [sftp-from-unix-server-to-window](https://unix.stackexchange.com/questions/140918/sftp-from-unix-server-to-window)  
 10 [在Nginx下对网站进行密码保护](http://blog.jobbole.com/41036/)  
-11 
+11 [10 个你需要了解的 Linux 网络和监控命令](http://blog.jobbole.com/49248/)  
+12 [Linux 上的基础网络设备详解](https://www.ibm.com/developerworks/cn/linux/1310_xiawc_networkdevice/index.html#icomments)  
+13 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
 
 **算法**
 >
@@ -58,7 +61,10 @@
 1 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)   
 2 [使用Shell脚本对Linux系统和进程资源进行监控](http://blog.jobbole.com/22318/)  
 3 [如何保证Linux服务器的安全](http://blog.jobbole.com/48195/)  
-4 [4个Linux服务器监控工具](http://blog.jobbole.com/58003/)  
+4 [4个Linux服务器监控工具](http://blog.jobbole.com/58003/)   
+5 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
+6 [Linux服务器性能评估](http://blog.jobbole.com/58714/)  
+7 [监控 Linux 性能的 18 个命令行工具](http://blog.jobbole.com/59790/)  
 
 
 **命令行**  
@@ -78,6 +84,11 @@
 13 [高效Linux用户需要了解的命令行技能](http://blog.jobbole.com/46976/)  
 14 [一些实用但不为人知的Unix命令](http://blog.jobbole.com/66590/)  
 15 [37条常用Linux Shell命令组合](http://blog.jobbole.com/48173/)  
+16 [妈咪，我找到了！15个实用的Linux find命令示例](http://blog.jobbole.com/48856/)  
+17 [爹地，我找到了！15个极好的Linux find命令示例](http://blog.jobbole.com/48931/)  
+18 [11 个很少人知道但很有用的 Linux 命令](http://blog.jobbole.com/50632/)  
+19 [如何利用多核CPU来加速你的Linux命令](http://blog.jobbole.com/50643/)  
+20 [Linux shell 用法和技巧](http://blog.jobbole.com/52455/)  
 
 
 **面试**
@@ -105,7 +116,11 @@
 1 [developerWorks®Linux](https://www.ibm.com/developerworks/cn/linux/)  
 2 [Learn Linux The Hard Way](https://github.com/wizardforcel/llthw-zh)  
 3 [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
-4 [开源中国](https://www.oschina.net/project)
+4 [开源中国](https://www.oschina.net/project)  
+5 [Linux Foundation](https://www.linuxfoundation.org/)  
+
+
+
 
 **其它**
 >  
@@ -124,6 +139,10 @@
 13 [每个Linux用户都应该知道的命令行技巧](http://blog.jobbole.com/54425/)  
 14 [使用 Python 获取 Linux 系统信息](http://blog.jobbole.com/44644/)  
 15 [Linux Shell 编程实战技巧](http://blog.jobbole.com/48717/)  
+16 [使用大数据时，别忘了关注Linux内存管理器](http://blog.jobbole.com/52898/)  
+17 [每一行代码都有记录](http://blog.jobbole.com/59359/)  
+18 [Linux 的成功源自社区，而非技术](http://blog.jobbole.com/60332/)  
+19 [Linus Trovalds谈Linux内核开发管理风格](http://blog.jobbole.com/61100/)  
 
 
 **学习资料**
