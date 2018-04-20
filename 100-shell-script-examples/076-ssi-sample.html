@@ -1,0 +1,21 @@
+<html>
+<title>Server side include demonstration</title>
+<body>
+<h2>Server-side include demonstration page</h2>
+You are visitor
+<!--#exec
+cmd="/home/kane/share/kuanghui/LinuxProjects/100-shell-script-examples/075-counter.sh"-->
+to this site.
+<P>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED" -->
+according to the SSI LAST_MODIFIED variable.
+<P>
+Finally, the random tagline for this load is:
+<center><B>
+<!--#exec
+cmd="/home/kane/share/kuanghui/LinuxProjects/100-shell-script-examples/076-randomquote.sh
+samplequotes.txt"-->
+</B></center>
+</body>
+</html>

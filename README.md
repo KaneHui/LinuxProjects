@@ -22,6 +22,11 @@
 11 [Linux 内存使用方法详细解析](http://blog.jobbole.com/45748/)  
 12 [Linux内存点滴：用户进程内存空间](http://blog.jobbole.com/45733/)  
 13 [Linux 的启动流程](http://blog.jobbole.com/46078/)  
+14 [Linux 系统中随机数在 KVM 中的应用](https://www.ibm.com/developerworks/cn/linux/1404_caobb_kvmrandom/index.html?ca=drs-)  
+15 [磁盘分区对齐详解与配置 – Linux篇](http://blog.jobbole.com/70419/)  
+16 [编写属于你的第一个Linux内核模块](http://blog.jobbole.com/72115/)  [代码](https://github.com/vsinitsyn/reverse)  
+17 
+
 
 **文件系统**
 >
@@ -30,6 +35,7 @@
 3 [理解 Linux 的硬链接与软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)  
 4 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)  
 5 [给 Linux 系统“减肥”](http://blog.jobbole.com/49497/)  
+6 [Linux LVM简明教程](http://blog.jobbole.com/71858/)  
 
 **网络原理**
 >
@@ -46,6 +52,7 @@
 11 [10 个你需要了解的 Linux 网络和监控命令](http://blog.jobbole.com/49248/)  
 12 [Linux 上的基础网络设备详解](https://www.ibm.com/developerworks/cn/linux/1310_xiawc_networkdevice/index.html#icomments)  
 13 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
+14 [Linux 网络堆栈的排队机制](http://blog.jobbole.com/62917/)  
 
 **算法**
 >
@@ -65,6 +72,7 @@
 5 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
 6 [Linux服务器性能评估](http://blog.jobbole.com/58714/)  
 7 [监控 Linux 性能的 18 个命令行工具](http://blog.jobbole.com/59790/)  
+8 [rm -rf 的“幸存者”](http://blog.jobbole.com/70971/)  
 
 
 **命令行**  
@@ -89,6 +97,10 @@
 18 [11 个很少人知道但很有用的 Linux 命令](http://blog.jobbole.com/50632/)  
 19 [如何利用多核CPU来加速你的Linux命令](http://blog.jobbole.com/50643/)  
 20 [Linux shell 用法和技巧](http://blog.jobbole.com/52455/)  
+21 [超酷的Unix终端/控制台工具小集合](http://blog.jobbole.com/62140/)  
+22 [为什么Linux的htop命令完胜top命令](http://blog.jobbole.com/69992/)  
+23 [Linux的script命令——隐藏在终端的记录器](http://blog.jobbole.com/70563/)  
+
 
 
 **面试**
@@ -143,6 +155,10 @@
 17 [每一行代码都有记录](http://blog.jobbole.com/59359/)  
 18 [Linux 的成功源自社区，而非技术](http://blog.jobbole.com/60332/)  
 19 [Linus Trovalds谈Linux内核开发管理风格](http://blog.jobbole.com/61100/)  
+20 [Linux鲜为人知的安全漏洞：不要将输出内容管道给你的shell](http://blog.jobbole.com/63818/)  
+21 [Linux发展编年表](http://blog.jobbole.com/70439/)  
+22 [我是怎样通过Sudo获取root权限的](http://blog.jobbole.com/68930/)  
+23 [Linux 与 BSD 有什么不同?](http://blog.jobbole.com/71958/)  
 
 
 **学习资料**
@@ -150,3 +166,6 @@
 >
 1 [10本Linux免费电子书](http://blog.jobbole.com/8139/)  
 2 [为学Linux，我看了这些书](http://blog.jobbole.com/45387/)
+3 Linux Administration Handbook  
+4 Linux Kernel Development 3rd Edition  
+5 The Art of Linux Kernel Design 2rd Edition
