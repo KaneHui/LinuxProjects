@@ -165,7 +165,10 @@
 
 >
 1 [10本Linux免费电子书](http://blog.jobbole.com/8139/)  
-2 [为学Linux，我看了这些书](http://blog.jobbole.com/45387/)
-3 Linux Administration Handbook  
-4 Linux Kernel Development 3rd Edition  
-5 The Art of Linux Kernel Design 2rd Edition
+2 [为学Linux，我看了这些书](http://blog.jobbole.com/45387/)  
+3 [Linux Administration Handbook](https://github.com/KaneHui/LinuxProjects/blob/master/books/Linux%20Administration%20Handbook.pdf)    
+4 [Linux Kernel Development 3rd Edition](https://github.com/KaneHui/LinuxProjects/blob/master/books/Linux%20Kernel%20Development%203rd%20Edition.pdf)  
+5 The Art of Linux Kernel Design 2rd Edition  
+6 [Linux内核学习四库全书](https://blog.csdn.net/21aspnet/article/details/6585602)  
+7 [Linux 内核学习的经典书籍及途径？](https://www.zhihu.com/question/19606660)  
+8 [我的Linux内核学习之路](https://blog.csdn.net/zhangjg_blog/article/details/20286559)  
