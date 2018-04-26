@@ -36,6 +36,7 @@
 4 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)  
 5 [给 Linux 系统“减肥”](http://blog.jobbole.com/49497/)  
 6 [Linux LVM简明教程](http://blog.jobbole.com/71858/)  
+7 [Linux 网络文件系统的数据备份及恢复机制实现](https://www.ibm.com/developerworks/cn/linux/1406_liyang_nfsbackuprestore/index.html)  
 
 **网络原理**
 >
@@ -73,6 +74,9 @@
 6 [Linux服务器性能评估](http://blog.jobbole.com/58714/)  
 7 [监控 Linux 性能的 18 个命令行工具](http://blog.jobbole.com/59790/)  
 8 [rm -rf 的“幸存者”](http://blog.jobbole.com/70971/)  
+9 [用 Python 脚本实现对 Linux 服务器的监控](http://blog.jobbole.com/54563/)  
+10 [SysAdmim 必备：系统性能大牛 Brendan Gregg 分享的 Linux 性能工具 ](http://blog.jobbole.com/76103/)  
+
 
 
 **命令行**  
@@ -100,6 +104,10 @@
 21 [超酷的Unix终端/控制台工具小集合](http://blog.jobbole.com/62140/)  
 22 [为什么Linux的htop命令完胜top命令](http://blog.jobbole.com/69992/)  
 23 [Linux的script命令——隐藏在终端的记录器](http://blog.jobbole.com/70563/)  
+24 [自动补完不算什么，一键直达目录才是终极神器！](http://blog.jobbole.com/73611/)  
+25 [对 Linux 专家非常有用的 20 个命令](http://blog.jobbole.com/45437/)  
+26 [我希望早几年知道的5个Unix命令](http://blog.jobbole.com/48124/)  
+27 [grep是什么？怎么用？](http://blog.jobbole.com/75410/)  
 
 
 
@@ -159,6 +167,7 @@
 21 [Linux发展编年表](http://blog.jobbole.com/70439/)  
 22 [我是怎样通过Sudo获取root权限的](http://blog.jobbole.com/68930/)  
 23 [Linux 与 BSD 有什么不同?](http://blog.jobbole.com/71958/)  
+24 [Linux平台的4个最佳开源代码编辑器](http://blog.jobbole.com/84112/)  
 
 
 **学习资料**
@@ -172,3 +181,4 @@
 6 [Linux内核学习四库全书](https://blog.csdn.net/21aspnet/article/details/6585602)  
 7 [Linux 内核学习的经典书籍及途径？](https://www.zhihu.com/question/19606660)  
 8 [我的Linux内核学习之路](https://blog.csdn.net/zhangjg_blog/article/details/20286559)  
+9 [学习Linux/UNIX的在线免费书籍和课程](http://blog.jobbole.com/76316/)  
