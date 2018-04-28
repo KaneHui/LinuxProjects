@@ -25,7 +25,7 @@
 14 [Linux 系统中随机数在 KVM 中的应用](https://www.ibm.com/developerworks/cn/linux/1404_caobb_kvmrandom/index.html?ca=drs-)  
 15 [磁盘分区对齐详解与配置 – Linux篇](http://blog.jobbole.com/70419/)  
 16 [编写属于你的第一个Linux内核模块](http://blog.jobbole.com/72115/)  [代码](https://github.com/vsinitsyn/reverse)  
-17 
+17 [编写最简单的内核：HelloWorld](http://blog.jobbole.com/79249/)  
 
 
 **文件系统**
@@ -76,6 +76,10 @@
 8 [rm -rf 的“幸存者”](http://blog.jobbole.com/70971/)  
 9 [用 Python 脚本实现对 Linux 服务器的监控](http://blog.jobbole.com/54563/)  
 10 [SysAdmim 必备：系统性能大牛 Brendan Gregg 分享的 Linux 性能工具 ](http://blog.jobbole.com/76103/)  
+11 [监控系统资源的6个Linux工具](http://blog.jobbole.com/81678/)  
+12 [全能冠军：Linux系统性能和使用活动监控工具 sysstat](http://blog.jobbole.com/78595/)  
+13 [Sysstat性能监控工具包中20个实用命令](http://blog.jobbole.com/78598/)  
+14 [回收站功能在 Linux 中的实现](https://www.ibm.com/developerworks/cn/linux/1410_licy_linuxtrash/index.html)  
 
 
 
@@ -118,7 +122,8 @@
 
 **黑客** 
 >
-1 [一次Linux服务器被hack的过程分析](http://blog.jobbole.com/21294/)
+1 [一次Linux服务器被hack的过程分析](http://blog.jobbole.com/21294/)  
+2 [Linux后门入侵检测工具，附bash漏洞解决方法](http://blog.jobbole.com/77663/)  
 
 **Linux 思想**
 >
@@ -168,6 +173,8 @@
 22 [我是怎样通过Sudo获取root权限的](http://blog.jobbole.com/68930/)  
 23 [Linux 与 BSD 有什么不同?](http://blog.jobbole.com/71958/)  
 24 [Linux平台的4个最佳开源代码编辑器](http://blog.jobbole.com/84112/)  
+25 [经验谈：用cp命令复制大量文件](http://blog.jobbole.com/77698/)  
+26 [18款开源/商用的Linux服务器控制面板](http://blog.jobbole.com/80575/)  
 
 
 **学习资料**
