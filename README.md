@@ -26,6 +26,17 @@
 15 [磁盘分区对齐详解与配置 – Linux篇](http://blog.jobbole.com/70419/)  
 16 [编写属于你的第一个Linux内核模块](http://blog.jobbole.com/72115/)  [代码](https://github.com/vsinitsyn/reverse)  
 17 [编写最简单的内核：HelloWorld](http://blog.jobbole.com/79249/)  
+18 [浅析 Linux 初始化 init 系统（1）：sysvinit](http://blog.jobbole.com/85076/)  
+19 [浅析 Linux 初始化 init 系统（2）： UpStart](http://blog.jobbole.com/85107/)  
+20 [浅析 Linux 初始化 init 系统（3） Systemd](http://blog.jobbole.com/85070/)  
+
+**汇编**  
+
+>
+1 [我的汇编学习之路（1）：指令](http://blog.jobbole.com/84776/)  
+2 [我的汇编学习之路（2）：主要术语和概念](http://blog.jobbole.com/84815/)  
+3 [Say hello to x86_64 Assembly [part 1]](https://0xax.github.io/asm_1/)  
+4 
 
 
 **文件系统**
@@ -54,6 +65,7 @@
 12 [Linux 上的基础网络设备详解](https://www.ibm.com/developerworks/cn/linux/1310_xiawc_networkdevice/index.html#icomments)  
 13 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
 14 [Linux 网络堆栈的排队机制](http://blog.jobbole.com/62917/)  
+15 [怎样在 Linux 中限制网络带宽使用](http://blog.jobbole.com/85605/)  
 
 **算法**
 >
@@ -80,6 +92,11 @@
 12 [全能冠军：Linux系统性能和使用活动监控工具 sysstat](http://blog.jobbole.com/78595/)  
 13 [Sysstat性能监控工具包中20个实用命令](http://blog.jobbole.com/78598/)  
 14 [回收站功能在 Linux 中的实现](https://www.ibm.com/developerworks/cn/linux/1410_licy_linuxtrash/index.html)  
+15 [检测Linux内存使用情况的free命令的10个例子](http://blog.jobbole.com/83912/)  
+16 [为什么linux下多线程程序如此消耗虚拟内存](http://blog.jobbole.com/83878/)  
+17 [Linux有问必答：如何检查Linux的内存使用状况](http://blog.jobbole.com/84480/)  
+18 [如何在Linux上找出并删除重复的文件：FSlint](http://blog.jobbole.com/85749/)  
+19 [Linux基础：如何找出你的系统所支持的最大内存](http://blog.jobbole.com/85709/)  
 
 
 
@@ -112,37 +129,32 @@
 25 [对 Linux 专家非常有用的 20 个命令](http://blog.jobbole.com/45437/)  
 26 [我希望早几年知道的5个Unix命令](http://blog.jobbole.com/48124/)  
 27 [grep是什么？怎么用？](http://blog.jobbole.com/75410/)  
+28 [10个重要的Linux ps命令实战](http://blog.jobbole.com/83610/)  
+29 [Awk 20 分钟入门介绍](http://blog.jobbole.com/83844/)  
+30 [Linux有问必答：如何在Linux下重命名多个文件](http://blog.jobbole.com/84475/)  
+31 [一大波实用的 bash 别名和函数](http://blog.jobbole.com/84755/)  
 
 
 
 **面试**
 >
-1 [陈皓：一个 fork 的面试题](http://blog.jobbole.com/24686/)
+1 [陈皓：一个 fork 的面试题](http://blog.jobbole.com/24686/)  
+2 [20条Linux命令面试问答](http://blog.jobbole.com/84069/)  
+3 [Linux Shell 脚本面试 25 问](http://blog.jobbole.com/86237/)  
 
 
 **黑客** 
 >
 1 [一次Linux服务器被hack的过程分析](http://blog.jobbole.com/21294/)  
 2 [Linux后门入侵检测工具，附bash漏洞解决方法](http://blog.jobbole.com/77663/)  
+3 [如何在 Linux 下大量屏蔽恶意 IP 地址](http://blog.jobbole.com/84478/)  
 
 **Linux 思想**
 >
 1 [Unix编程艺术，Unix哲学](http://blog.jobbole.com/1295/)  
 2 [陈皓：用Unix的设计思想来应对多变的需求](http://blog.jobbole.com/18797/)
 
-**人物传记**  
->
-1 [Linux：黑客传说](http://blog.jobbole.com/1517/)  
-2 [阮一峰：Linus Torvalds自传摘录 ](http://blog.jobbole.com/26418/) 
 
-
-**博客**  
->
-1 [developerWorks®Linux](https://www.ibm.com/developerworks/cn/linux/)  
-2 [Learn Linux The Hard Way](https://github.com/wizardforcel/llthw-zh)  
-3 [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
-4 [开源中国](https://www.oschina.net/project)  
-5 [Linux Foundation](https://www.linuxfoundation.org/)  
 
 
 
@@ -175,6 +187,21 @@
 24 [Linux平台的4个最佳开源代码编辑器](http://blog.jobbole.com/84112/)  
 25 [经验谈：用cp命令复制大量文件](http://blog.jobbole.com/77698/)  
 26 [18款开源/商用的Linux服务器控制面板](http://blog.jobbole.com/80575/)  
+
+
+**人物传记**  
+>
+1 [Linux：黑客传说](http://blog.jobbole.com/1517/)  
+2 [阮一峰：Linus Torvalds自传摘录 ](http://blog.jobbole.com/26418/) 
+
+
+**博客**  
+>
+1 [developerWorks®Linux](https://www.ibm.com/developerworks/cn/linux/)  
+2 [Learn Linux The Hard Way](https://github.com/wizardforcel/llthw-zh)  
+3 [Linux 伯乐在线](http://blog.jobbole.com/tag/linux/)  
+4 [开源中国](https://www.oschina.net/project)  
+5 [Linux Foundation](https://www.linuxfoundation.org/)  
 
 
 **学习资料**
