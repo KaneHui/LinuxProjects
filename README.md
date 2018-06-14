@@ -30,6 +30,15 @@
 19 [浅析 Linux 初始化 init 系统（2）： UpStart](http://blog.jobbole.com/85107/)  
 20 [浅析 Linux 初始化 init 系统（3） Systemd](http://blog.jobbole.com/85070/)  
 
+**驱动**  
+
+>
+1 [深入浅出：Linux设备驱动之中断与定时器](http://blog.jobbole.com/86482/)  
+2 [深入浅出：Linux设备驱动之异步通知和异步I/O](http://blog.jobbole.com/86493/)  
+3 [深入浅出：Linux设备驱动中的阻塞和非阻塞I/O](http://blog.jobbole.com/86498/)  
+4 [深入浅出：Linux设备驱动中的并发控制](http://blog.jobbole.com/86521/)  
+5 [深入浅出：Linux设备驱动之字符设备驱动](http://blog.jobbole.com/86531/)  
+
 **汇编**  
 
 >
@@ -66,13 +75,19 @@
 13 [给Linux系统/网络管理员准备的Nmap命令的29个实用范例](http://blog.jobbole.com/54595/)  
 14 [Linux 网络堆栈的排队机制](http://blog.jobbole.com/62917/)  
 15 [怎样在 Linux 中限制网络带宽使用](http://blog.jobbole.com/85605/)  
+16 [写一个每秒接收 100 万数据包的程序究竟有多难？](http://blog.jobbole.com/87759/)  
 
-**算法**
+
+
+
+**数据结构与算法**
 >
 1 [为什么 GNU grep 如此之快？](http://blog.jobbole.com/52313/)  
 2 [几种压缩算法实现原理详解](https://blog.csdn.net/ghevinn/article/details/45747465)  
 3 [What is the best text compression algorithm?](https://www.quora.com/What-is-the-best-text-compression-algorithm)  
-4 [What is the current state of text-only compression algorithms?](https://stackoverflow.com/questions/236456/what-is-the-current-state-of-text-only-compression-algorithms)
+4 [What is the current state of text-only compression algorithms?](https://stackoverflow.com/questions/236456/what-is-the-current-state-of-text-only-compression-algorithms)  
+5 [Linux 内核数据结构：Radix 树](http://blog.jobbole.com/87675/)  
+6 [Linux 内核数据结构：双向链表](http://blog.jobbole.com/87687/)  
 
 
 
@@ -97,6 +112,9 @@
 17 [Linux有问必答：如何检查Linux的内存使用状况](http://blog.jobbole.com/84480/)  
 18 [如何在Linux上找出并删除重复的文件：FSlint](http://blog.jobbole.com/85749/)  
 19 [Linux基础：如何找出你的系统所支持的最大内存](http://blog.jobbole.com/85709/)  
+20 [Linux运维工程师入门须掌握的10个技术点](http://blog.jobbole.com/87542/)  
+21 [用 Puppet 搭建易管理的服务器基础架构（1）](http://blog.jobbole.com/87679/)  
+22 [用 Puppet 搭建易管理的服务器基础架构（2）](http://blog.jobbole.com/87680/)  
 
 
 
@@ -133,6 +151,7 @@
 29 [Awk 20 分钟入门介绍](http://blog.jobbole.com/83844/)  
 30 [Linux有问必答：如何在Linux下重命名多个文件](http://blog.jobbole.com/84475/)  
 31 [一大波实用的 bash 别名和函数](http://blog.jobbole.com/84755/)  
+32 [11个让你吃惊的 Linux 终端命令](http://blog.jobbole.com/86948/)  
 
 
 
@@ -153,9 +172,6 @@
 >
 1 [Unix编程艺术，Unix哲学](http://blog.jobbole.com/1295/)  
 2 [陈皓：用Unix的设计思想来应对多变的需求](http://blog.jobbole.com/18797/)
-
-
-
 
 
 
