@@ -29,6 +29,12 @@
 18 [浅析 Linux 初始化 init 系统（1）：sysvinit](http://blog.jobbole.com/85076/)  
 19 [浅析 Linux 初始化 init 系统（2）： UpStart](http://blog.jobbole.com/85107/)  
 20 [浅析 Linux 初始化 init 系统（3） Systemd](http://blog.jobbole.com/85070/)  
+21 [Linux 内核里的“智能指针”](http://blog.jobbole.com/88279/)  
+22 [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)  
+23 [Linux 内核内存管理（1）](http://blog.jobbole.com/88452/)  
+24 [Linux资源管理之cgroups简介](http://blog.jobbole.com/88836/)  
+25 [CGroup 介绍、应用实例及原理描述](http://blog.jobbole.com/89176/)  
+26 [linux内核动态加载模块](http://blog.jobbole.com/89886/)  
 
 **驱动**  
 
@@ -76,6 +82,13 @@
 14 [Linux 网络堆栈的排队机制](http://blog.jobbole.com/62917/)  
 15 [怎样在 Linux 中限制网络带宽使用](http://blog.jobbole.com/85605/)  
 16 [写一个每秒接收 100 万数据包的程序究竟有多难？](http://blog.jobbole.com/87759/)  
+17 [iptables深入解析：filter篇](http://blog.jobbole.com/89936/)  
+18 [iptables深入解析：filter应用篇](http://blog.jobbole.com/89942/)  
+19 [iptables深入解析：ct篇](http://blog.jobbole.com/89946/)  
+20 [iptables深入解析：nat篇](http://blog.jobbole.com/90005/)  
+21 [iptables深入解析：mangle篇](http://blog.jobbole.com/90008/)  
+22 [iptables深入解析：应用层插件篇](http://blog.jobbole.com/90011/)  
+23 [记一次Linux服务器上查杀木马经历](http://blog.jobbole.com/90098/)  
 
 
 
@@ -152,6 +165,7 @@
 30 [Linux有问必答：如何在Linux下重命名多个文件](http://blog.jobbole.com/84475/)  
 31 [一大波实用的 bash 别名和函数](http://blog.jobbole.com/84755/)  
 32 [11个让你吃惊的 Linux 终端命令](http://blog.jobbole.com/86948/)  
+33 [LINUX 101: 让你的 SHELL 更强大](http://blog.jobbole.com/88707/)  
 
 
 
