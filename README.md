@@ -35,6 +35,11 @@
 24 [Linux资源管理之cgroups简介](http://blog.jobbole.com/88836/)  
 25 [CGroup 介绍、应用实例及原理描述](http://blog.jobbole.com/89176/)  
 26 [linux内核动态加载模块](http://blog.jobbole.com/89886/)  
+27 [Linux 内核中断和中断处理（1）](http://blog.jobbole.com/90531/)  
+28 [从2.x到4.x，Linux内核这十年经历了哪些重要变革](http://blog.jobbole.com/90963/)  
+29 [深入理解Linux修改hostname](http://blog.jobbole.com/90999/)  
+30 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
+
 
 **驱动**  
 
@@ -63,6 +68,10 @@
 5 [给 Linux 系统“减肥”](http://blog.jobbole.com/49497/)  
 6 [Linux LVM简明教程](http://blog.jobbole.com/71858/)  
 7 [Linux 网络文件系统的数据备份及恢复机制实现](https://www.ibm.com/developerworks/cn/linux/1406_liyang_nfsbackuprestore/index.html)  
+8 [Linux 文件系统结构介绍](http://blog.jobbole.com/90400/)  
+
+
+<div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
 
 **网络原理**
 >
@@ -89,6 +98,9 @@
 21 [iptables深入解析：mangle篇](http://blog.jobbole.com/90008/)  
 22 [iptables深入解析：应用层插件篇](http://blog.jobbole.com/90011/)  
 23 [记一次Linux服务器上查杀木马经历](http://blog.jobbole.com/90098/)  
+24 [linux下QOS：理论篇](http://blog.jobbole.com/90897/)  
+25 [linux下QOS：应用篇](http://blog.jobbole.com/90899/)  
+26 [一份快速实用的 tcpdump 命令参考手册](http://blog.jobbole.com/91631/)  
 
 
 
@@ -129,6 +141,11 @@
 21 [用 Puppet 搭建易管理的服务器基础架构（1）](http://blog.jobbole.com/87679/)  
 22 [用 Puppet 搭建易管理的服务器基础架构（2）](http://blog.jobbole.com/87680/)  
 
+## 日志系统 ##
+
+>
+1 [在 Linux 中使用日志来排错](http://blog.jobbole.com/90740/)    
+
 
 
 **命令行**  
@@ -166,6 +183,8 @@
 31 [一大波实用的 bash 别名和函数](http://blog.jobbole.com/84755/)  
 32 [11个让你吃惊的 Linux 终端命令](http://blog.jobbole.com/86948/)  
 33 [LINUX 101: 让你的 SHELL 更强大](http://blog.jobbole.com/88707/)  
+34 [这篇文章可以帮你掌握命令行的艺术](http://blog.jobbole.com/90364/)  
+35 
 
 
 
@@ -217,6 +236,7 @@
 24 [Linux平台的4个最佳开源代码编辑器](http://blog.jobbole.com/84112/)  
 25 [经验谈：用cp命令复制大量文件](http://blog.jobbole.com/77698/)  
 26 [18款开源/商用的Linux服务器控制面板](http://blog.jobbole.com/80575/)  
+27 [守卫自由的 Linux 世界](http://blog.jobbole.com/90967/)  
 
 
 **人物传记**  
