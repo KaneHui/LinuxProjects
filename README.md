@@ -39,6 +39,16 @@
 28 [从2.x到4.x，Linux内核这十年经历了哪些重要变革](http://blog.jobbole.com/90963/)  
 29 [深入理解Linux修改hostname](http://blog.jobbole.com/90999/)  
 30 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
+31 [Linux 内存管理: Kmalloc](http://blog.jobbole.com/91820/)  
+32 [Linux 内存管理: Kmalloc(2)](http://blog.jobbole.com/91828/)  
+33 [Linux 内存管理：Kmem_cache_init](http://blog.jobbole.com/91883/)  
+34 [Linux内存管理：Vmalloc](http://blog.jobbole.com/91885/)  
+35 [Linux内存管理：Malloc](http://blog.jobbole.com/91887/)  
+36 [Linux 内存管理：内存映射](http://blog.jobbole.com/91891/)  
+37 [Linux内存管理：DMA](http://blog.jobbole.com/91893/)  
+38 [Linux 动态库相关知识整理](http://blog.jobbole.com/94497/)  
+39 [Linux 下编译及调试 C 代码的简易指南](http://blog.jobbole.com/94383/)  
+40 [Linux概念架构的理解](http://blog.jobbole.com/95853/)  
 
 
 **驱动**  
@@ -49,6 +59,8 @@
 3 [深入浅出：Linux设备驱动中的阻塞和非阻塞I/O](http://blog.jobbole.com/86498/)  
 4 [深入浅出：Linux设备驱动中的并发控制](http://blog.jobbole.com/86521/)  
 5 [深入浅出：Linux设备驱动之字符设备驱动](http://blog.jobbole.com/86531/)  
+6 [Linux Mount 挂载设备使用说明](http://blog.jobbole.com/92695/)  
+7 
 
 **汇编**  
 
@@ -101,6 +113,10 @@
 24 [linux下QOS：理论篇](http://blog.jobbole.com/90897/)  
 25 [linux下QOS：应用篇](http://blog.jobbole.com/90899/)  
 26 [一份快速实用的 tcpdump 命令参考手册](http://blog.jobbole.com/91631/)  
+27 [Linux Shell 脚本实现 tcp/upd 协议通讯](http://blog.jobbole.com/93201/)  
+28 [通过完整示例来理解如何使用 epoll](http://blog.jobbole.com/93566/)  
+29 [Web 应用性能提升 10 倍的 10 个建议](http://blog.jobbole.com/94962/)  
+30 [如何在Linux上按国别阻止网络流量?](http://blog.jobbole.com/96920/)  
 
 
 
@@ -115,6 +131,11 @@
 6 [Linux 内核数据结构：双向链表](http://blog.jobbole.com/87687/)  
 
 
+## Docker ##
+
+>
+1 [8 个基本的 Docker 容器管理命令](http://blog.jobbole.com/114145/)  
+2 [一位开发者的 Linux 容器之旅](http://blog.jobbole.com/94904/)
 
 **Linux管理**
 >
@@ -140,6 +161,7 @@
 20 [Linux运维工程师入门须掌握的10个技术点](http://blog.jobbole.com/87542/)  
 21 [用 Puppet 搭建易管理的服务器基础架构（1）](http://blog.jobbole.com/87679/)  
 22 [用 Puppet 搭建易管理的服务器基础架构（2）](http://blog.jobbole.com/87680/)  
+23 [Sysdig：Linux服务器监控和排障利器](http://blog.jobbole.com/97254/)  
 
 ## 日志系统 ##
 
@@ -184,7 +206,10 @@
 32 [11个让你吃惊的 Linux 终端命令](http://blog.jobbole.com/86948/)  
 33 [LINUX 101: 让你的 SHELL 更强大](http://blog.jobbole.com/88707/)  
 34 [这篇文章可以帮你掌握命令行的艺术](http://blog.jobbole.com/90364/)  
-35 
+35 [Linux Shell 字符串操作（长度/查找/替换）详解](http://blog.jobbole.com/92002/)  
+36 [Linux Shell 通配符、元字符、转义符使用](http://blog.jobbole.com/92967/)  
+37 [在 Unix 系统上查找数据的最佳工具和技巧](http://blog.jobbole.com/92811/)  
+
 
 
 
@@ -237,6 +262,8 @@
 25 [经验谈：用cp命令复制大量文件](http://blog.jobbole.com/77698/)  
 26 [18款开源/商用的Linux服务器控制面板](http://blog.jobbole.com/80575/)  
 27 [守卫自由的 Linux 世界](http://blog.jobbole.com/90967/)  
+28 [Linux 中 df 命令的11个例子](http://blog.jobbole.com/93595/)  
+29 [如何用树莓派和Kali Linux搭建一个便携式的黑客工作站](http://blog.jobbole.com/95031/)  
 
 
 **人物传记**  
@@ -266,3 +293,5 @@
 7 [Linux 内核学习的经典书籍及途径？](https://www.zhihu.com/question/19606660)  
 8 [我的Linux内核学习之路](https://blog.csdn.net/zhangjg_blog/article/details/20286559)  
 9 [学习Linux/UNIX的在线免费书籍和课程](http://blog.jobbole.com/76316/)  
+10 [Linux Shell 学习资料推荐](http://blog.jobbole.com/93127/)  
+11 
