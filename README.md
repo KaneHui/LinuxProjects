@@ -60,7 +60,14 @@
 4 [深入浅出：Linux设备驱动中的并发控制](http://blog.jobbole.com/86521/)  
 5 [深入浅出：Linux设备驱动之字符设备驱动](http://blog.jobbole.com/86531/)  
 6 [Linux Mount 挂载设备使用说明](http://blog.jobbole.com/92695/)  
-7 
+7 [蜕变成蝶：Linux设备驱动中的并发控制](http://blog.jobbole.com/99675/)  
+8 [蜕变成蝶：Linux设备驱动中的阻塞和非阻塞I/O](http://blog.jobbole.com/99707/)  
+9 [蜕变成蝶：Linux设备驱动之字符设备驱动](http://blog.jobbole.com/99654/)  
+10 [蜕变成蝶：Linux设备驱动之异步通知和异步I/O](http://blog.jobbole.com/99710/)  
+11 [蜕变成蝶：Linux设备驱动之中断与定时器](http://blog.jobbole.com/99763/)  
+12 [蜕变成蝶：Linux设备驱动之CPU与内存和I/O](http://blog.jobbole.com/100314/)  
+13 [蜕变成蝶：Linux设备驱动之DMA](http://blog.jobbole.com/100403/)  
+
 
 **汇编**  
 
@@ -81,6 +88,9 @@
 6 [Linux LVM简明教程](http://blog.jobbole.com/71858/)  
 7 [Linux 网络文件系统的数据备份及恢复机制实现](https://www.ibm.com/developerworks/cn/linux/1406_liyang_nfsbackuprestore/index.html)  
 8 [Linux 文件系统结构介绍](http://blog.jobbole.com/90400/)  
+9 [哪个文件系统最适合你的 Linux 系统？](http://blog.jobbole.com/97505/)  
+
+
 
 
 <div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
@@ -162,6 +172,19 @@
 21 [用 Puppet 搭建易管理的服务器基础架构（1）](http://blog.jobbole.com/87679/)  
 22 [用 Puppet 搭建易管理的服务器基础架构（2）](http://blog.jobbole.com/87680/)  
 23 [Sysdig：Linux服务器监控和排障利器](http://blog.jobbole.com/97254/)  
+24 [Linux主流架构运维工作简单剖析](http://blog.jobbole.com/97616/)  
+25 [Linux企业运维高效技巧心得及分享](http://blog.jobbole.com/97568/)  
+26 [一秒内诊断 Linux 服务器的性能](http://blog.jobbole.com/97540/)  
+27 [Systemd 入门教程：命令篇](http://blog.jobbole.com/98667/)  
+28 [Systemd 入门教程：实战篇](http://blog.jobbole.com/98671/)  
+29 [Linux 守护进程的启动方法](http://blog.jobbole.com/98657/)  
+30  
+
+**Linux运维**
+>
+1 [CentOS 7下搭建高可用集群](http://blog.jobbole.com/98446/)  
+2 [Linux企业运维高效技巧心得及分享](http://blog.jobbole.com/97568/)  
+
 
 ## 日志系统 ##
 
@@ -209,6 +232,8 @@
 35 [Linux Shell 字符串操作（长度/查找/替换）详解](http://blog.jobbole.com/92002/)  
 36 [Linux Shell 通配符、元字符、转义符使用](http://blog.jobbole.com/92967/)  
 37 [在 Unix 系统上查找数据的最佳工具和技巧](http://blog.jobbole.com/92811/)  
+38 [Cheat—— 给Linux初学者和管理员一个终极命令行"备忘单"](http://blog.jobbole.com/97626/)  
+40 [Linux Shell 文本处理工具集锦](http://blog.jobbole.com/99063/)  
 
 
 
@@ -225,6 +250,8 @@
 1 [一次Linux服务器被hack的过程分析](http://blog.jobbole.com/21294/)  
 2 [Linux后门入侵检测工具，附bash漏洞解决方法](http://blog.jobbole.com/77663/)  
 3 [如何在 Linux 下大量屏蔽恶意 IP 地址](http://blog.jobbole.com/84478/)  
+4 [10大白帽黑客专用的 Linux 操作系统](http://blog.jobbole.com/97895/)  
+5 [Linux TCP/IP 网络工具对比：net-tools 和 iproute2](http://blog.jobbole.com/97270/)  
 
 **Linux 思想**
 >
@@ -294,4 +321,4 @@
 8 [我的Linux内核学习之路](https://blog.csdn.net/zhangjg_blog/article/details/20286559)  
 9 [学习Linux/UNIX的在线免费书籍和课程](http://blog.jobbole.com/76316/)  
 10 [Linux Shell 学习资料推荐](http://blog.jobbole.com/93127/)  
-11 
+11 [Linux企业运维高效技巧心得及分享](http://blog.jobbole.com/97568/)  
