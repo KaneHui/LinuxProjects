@@ -49,6 +49,12 @@
 38 [Linux 动态库相关知识整理](http://blog.jobbole.com/94497/)  
 39 [Linux 下编译及调试 C 代码的简易指南](http://blog.jobbole.com/94383/)  
 40 [Linux概念架构的理解](http://blog.jobbole.com/95853/)  
+41 [Linux 内存寻址之分页机制](http://blog.jobbole.com/101211/)  
+42 [Linux 内存寻址之分段机制](http://blog.jobbole.com/101210/)  
+43 [Linux 系统结构详解](http://blog.jobbole.com/103511/)  
+44 L[inux 死锁检测模块 Lockdep 简介](http://blog.jobbole.com/100078/)  
+45 [Linux Netlink 基本使用](http://blog.jobbole.com/104334/)  
+46 
 
 
 **驱动**  
@@ -67,6 +73,9 @@
 11 [蜕变成蝶：Linux设备驱动之中断与定时器](http://blog.jobbole.com/99763/)  
 12 [蜕变成蝶：Linux设备驱动之CPU与内存和I/O](http://blog.jobbole.com/100314/)  
 13 [蜕变成蝶：Linux设备驱动之DMA](http://blog.jobbole.com/100403/)  
+14 [蜕变成蝶：Linux设备驱动之按键设备驱动](http://blog.jobbole.com/100446/)  
+15 [蜕变成蝶：Linux设备驱动之watchdog设备驱动](http://blog.jobbole.com/100603/)  
+16 [乾坤合一：Linux设备驱动之USB主机和设备驱动](http://blog.jobbole.com/101638/)  
 
 
 **汇编**  
@@ -75,7 +84,9 @@
 1 [我的汇编学习之路（1）：指令](http://blog.jobbole.com/84776/)  
 2 [我的汇编学习之路（2）：主要术语和概念](http://blog.jobbole.com/84815/)  
 3 [Say hello to x86_64 Assembly [part 1]](https://0xax.github.io/asm_1/)  
-4 
+4 [Linux GCC常用命令](http://blog.jobbole.com/103135/)  
+5 [Linux 动态库与静态库制作及使用详解](http://blog.jobbole.com/103668/)  
+6 
 
 
 **文件系统**
@@ -89,9 +100,28 @@
 7 [Linux 网络文件系统的数据备份及恢复机制实现](https://www.ibm.com/developerworks/cn/linux/1406_liyang_nfsbackuprestore/index.html)  
 8 [Linux 文件系统结构介绍](http://blog.jobbole.com/90400/)  
 9 [哪个文件系统最适合你的 Linux 系统？](http://blog.jobbole.com/97505/)  
+10 [Linux 的 core 文件](http://blog.jobbole.com/101648/)  
+11 [Linux 信号应用之黑匣子程序设计](http://blog.jobbole.com/101619/)  
+12 [Linux 编程中的文件锁之 flock](http://blog.jobbole.com/102538/)  
+13 [Linux 系统中一些针对文件系统的节能技巧](http://blog.jobbole.com/104051/)  
+14 
 
 
 
+## Linux 编程 ##
+
+>
+1 [fork()函数与Linux中的多线程编程](http://blog.jobbole.com/102599/)   
+2 [Linux 中的线程局部存储（1）](http://blog.jobbole.com/102540/)  
+3 [Linux中的线程局部存储（2）](http://blog.jobbole.com/102746/)  
+4 [Linux Socket编程（不限Linux）](http://blog.jobbole.com/95378/)  
+5 [Linux 多线程编程（不限Linux）](http://blog.jobbole.com/103442/)  
+6 [Linux 下 C++ 异常处理技巧](http://blog.jobbole.com/103596/)  
+7 [Linux 平台相关代码的 C++ 解决方案](http://blog.jobbole.com/103640/)  
+8 [面向 C++ 的测试驱动开发](http://blog.jobbole.com/104032/)  
+9 [如何在 Linux 下检测内存泄漏](http://blog.jobbole.com/104042/)  
+10 [Linux 环境多线程编程基础设施](http://blog.jobbole.com/104086/)  
+11 [Linux 中 fcntl()、lockf、flock 的区别](http://blog.jobbole.com/104331/)  
 
 <div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
 
@@ -127,6 +157,8 @@
 28 [通过完整示例来理解如何使用 epoll](http://blog.jobbole.com/93566/)  
 29 [Web 应用性能提升 10 倍的 10 个建议](http://blog.jobbole.com/94962/)  
 30 [如何在Linux上按国别阻止网络流量?](http://blog.jobbole.com/96920/)  
+31 [使用 libevent 和 libev 提高网络应用性能](http://blog.jobbole.com/103605/)  
+32 [Linux netstat命令详解](http://blog.jobbole.com/103724/)  
 
 
 
@@ -178,7 +210,11 @@
 27 [Systemd 入门教程：命令篇](http://blog.jobbole.com/98667/)  
 28 [Systemd 入门教程：实战篇](http://blog.jobbole.com/98671/)  
 29 [Linux 守护进程的启动方法](http://blog.jobbole.com/98657/)  
-30  
+30 [Linux 进程管理之四大名捕](http://blog.jobbole.com/100326/)  
+31 [10 分钟服务器安全设置，Ubuntu安全设置入门](http://blog.jobbole.com/103344/)  
+32 [从业 30 年的女系统管理员的经验分享](http://blog.jobbole.com/103561/)  
+33 [“懒惰” Linux 管理员的 10 个关键技巧](http://blog.jobbole.com/104056/)  
+34 
 
 **Linux运维**
 >
@@ -234,6 +270,9 @@
 37 [在 Unix 系统上查找数据的最佳工具和技巧](http://blog.jobbole.com/92811/)  
 38 [Cheat—— 给Linux初学者和管理员一个终极命令行"备忘单"](http://blog.jobbole.com/97626/)  
 40 [Linux Shell 文本处理工具集锦](http://blog.jobbole.com/99063/)  
+41 [Linux 文件查找工具之find“大宝剑”](http://blog.jobbole.com/100925/)  
+42 [如何隐藏你的 Linux 的命令行历史](http://blog.jobbole.com/103721/)  
+43 [如何在 Linux 上录制你的终端操作](http://blog.jobbole.com/103737/)  
 
 
 
@@ -252,6 +291,7 @@
 3 [如何在 Linux 下大量屏蔽恶意 IP 地址](http://blog.jobbole.com/84478/)  
 4 [10大白帽黑客专用的 Linux 操作系统](http://blog.jobbole.com/97895/)  
 5 [Linux TCP/IP 网络工具对比：net-tools 和 iproute2](http://blog.jobbole.com/97270/)  
+6 [Linux fork 炸弹解析，Linux Fork Bomb](http://blog.jobbole.com/100935/)  
 
 **Linux 思想**
 >
@@ -291,6 +331,8 @@
 27 [守卫自由的 Linux 世界](http://blog.jobbole.com/90967/)  
 28 [Linux 中 df 命令的11个例子](http://blog.jobbole.com/93595/)  
 29 [如何用树莓派和Kali Linux搭建一个便携式的黑客工作站](http://blog.jobbole.com/95031/)  
+30 [玩转 Windows 10 中的 Linux 子系统](http://blog.jobbole.com/104012/)  
+31 
 
 
 **人物传记**  
@@ -322,3 +364,5 @@
 9 [学习Linux/UNIX的在线免费书籍和课程](http://blog.jobbole.com/76316/)  
 10 [Linux Shell 学习资料推荐](http://blog.jobbole.com/93127/)  
 11 [Linux企业运维高效技巧心得及分享](http://blog.jobbole.com/97568/)  
+12 [Linux 平台下阅读源码的工具链](http://blog.jobbole.com/101322/)  
+13 [那些被岁月遗忘的 UNIX 经典著作](http://blog.jobbole.com/103989/)  
