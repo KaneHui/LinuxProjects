@@ -3,7 +3,7 @@
 
 
 
-### 参考资料 ###
+
 
 
 
@@ -54,8 +54,13 @@
 43 [Linux 系统结构详解](http://blog.jobbole.com/103511/)  
 44 L[inux 死锁检测模块 Lockdep 简介](http://blog.jobbole.com/100078/)  
 45 [Linux Netlink 基本使用](http://blog.jobbole.com/104334/)  
-46 
-
+46 [Linux性能及调优指南：内存架构](http://blog.jobbole.com/105148/)  
+47 [Linux性能及调优指南：进程管理](http://blog.jobbole.com/105135/)  
+48 [Linux 中断处理原理分析](http://blog.jobbole.com/105524/)  
+49 [Linux 3.10 kernel bridge 转发逻辑](http://blog.jobbole.com/105787/)  
+50 [Linux 进程状态浅析](http://blog.jobbole.com/106165/)  
+51 [Linux 进程调度浅析](http://blog.jobbole.com/106168/)  
+52 
 
 **驱动**  
 
@@ -86,7 +91,7 @@
 3 [Say hello to x86_64 Assembly [part 1]](https://0xax.github.io/asm_1/)  
 4 [Linux GCC常用命令](http://blog.jobbole.com/103135/)  
 5 [Linux 动态库与静态库制作及使用详解](http://blog.jobbole.com/103668/)  
-6 
+6 [Linux下的静态库、动态库和动态加载库](http://blog.jobbole.com/105933/)  
 
 
 **文件系统**
@@ -104,9 +109,11 @@
 11 [Linux 信号应用之黑匣子程序设计](http://blog.jobbole.com/101619/)  
 12 [Linux 编程中的文件锁之 flock](http://blog.jobbole.com/102538/)  
 13 [Linux 系统中一些针对文件系统的节能技巧](http://blog.jobbole.com/104051/)  
-14 
+14 [诠释 Linux 中“一切都是文件”概念和相应的文件类型](http://blog.jobbole.com/104579/)  
+15 [VFS文件系统结构分析](http://blog.jobbole.com/105537/)  
+16 
 
-
+<div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
 
 ## Linux 编程 ##
 
@@ -122,8 +129,9 @@
 9 [如何在 Linux 下检测内存泄漏](http://blog.jobbole.com/104042/)  
 10 [Linux 环境多线程编程基础设施](http://blog.jobbole.com/104086/)  
 11 [Linux 中 fcntl()、lockf、flock 的区别](http://blog.jobbole.com/104331/)  
+12 [编写可靠 shell 脚本的 8 个建议](http://blog.jobbole.com/105079/)  
 
-<div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
+
 
 **网络原理**
 >
@@ -159,7 +167,9 @@
 30 [如何在Linux上按国别阻止网络流量?](http://blog.jobbole.com/96920/)  
 31 [使用 libevent 和 libev 提高网络应用性能](http://blog.jobbole.com/103605/)  
 32 [Linux netstat命令详解](http://blog.jobbole.com/103724/)  
-
+33 [浅谈 TCP 优化](http://blog.jobbole.com/105205/)  
+34 [二层（链路层）数据包发送过程分析](http://blog.jobbole.com/105278/)  
+35 [Linux TCP/IP 网络工具对比：net-tools 和 iproute2](http://blog.jobbole.com/97270/)  
 
 
 
@@ -214,7 +224,9 @@
 31 [10 分钟服务器安全设置，Ubuntu安全设置入门](http://blog.jobbole.com/103344/)  
 32 [从业 30 年的女系统管理员的经验分享](http://blog.jobbole.com/103561/)  
 33 [“懒惰” Linux 管理员的 10 个关键技巧](http://blog.jobbole.com/104056/)  
-34 
+34 [Linux 下 CPU 使用率与机器负载的关系与区别](http://blog.jobbole.com/105326/)  
+35 
+
 
 **Linux运维**
 >
@@ -273,7 +285,8 @@
 41 [Linux 文件查找工具之find“大宝剑”](http://blog.jobbole.com/100925/)  
 42 [如何隐藏你的 Linux 的命令行历史](http://blog.jobbole.com/103721/)  
 43 [如何在 Linux 上录制你的终端操作](http://blog.jobbole.com/103737/)  
-
+44 [9 个使用前必须再三小心的 Linux 命令](http://blog.jobbole.com/106147/)  
+45 
 
 
 
@@ -290,8 +303,8 @@
 2 [Linux后门入侵检测工具，附bash漏洞解决方法](http://blog.jobbole.com/77663/)  
 3 [如何在 Linux 下大量屏蔽恶意 IP 地址](http://blog.jobbole.com/84478/)  
 4 [10大白帽黑客专用的 Linux 操作系统](http://blog.jobbole.com/97895/)  
-5 [Linux TCP/IP 网络工具对比：net-tools 和 iproute2](http://blog.jobbole.com/97270/)  
-6 [Linux fork 炸弹解析，Linux Fork Bomb](http://blog.jobbole.com/100935/)  
+5 [Linux fork 炸弹解析，Linux Fork Bomb](http://blog.jobbole.com/100935/)  
+6 
 
 **Linux 思想**
 >
