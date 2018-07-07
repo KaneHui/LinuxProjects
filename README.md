@@ -9,12 +9,12 @@
 2 [调试器工作原理（2）：实现断点](http://blog.jobbole.com/23632/)  
 3 [调试器工作原理（3）：调试信息](http://blog.jobbole.com/24916/)  
 4 [定位 UNIX 上常见问题的经验总结](http://blog.jobbole.com/22133/)  
-5 [Linux 内核 3.3 和 3.4 简介](http://blog.jobbole.com/24419/)  
+5 
 6 [王垠：Unix的缺陷](http://blog.jobbole.com/25792/)  
 7 [Linux 灾难恢复](http://blog.jobbole.com/27956/)  
-8 [Linux kernel测试初探](http://blog.jobbole.com/31690/)  
+8 
 9 [OSdev](https://wiki.osdev.org/Main_Page)  
-10 [成为Linux内核高手的四个方法](http://blog.jobbole.com/54833/)  
+10 
 11 [Linux 内存使用方法详细解析](http://blog.jobbole.com/45748/)  
 12 [Linux内存点滴：用户进程内存空间](http://blog.jobbole.com/45733/)  
 13 [Linux 的启动流程](http://blog.jobbole.com/46078/)  
@@ -30,9 +30,9 @@
 23 [Linux 内核内存管理（1）](http://blog.jobbole.com/88452/)  
 24 [Linux资源管理之cgroups简介](http://blog.jobbole.com/88836/)  
 25 [CGroup 介绍、应用实例及原理描述](http://blog.jobbole.com/89176/)  
-26 
-27 [Linux 内核中断和中断处理（1）](http://blog.jobbole.com/90531/)  
-28 [从2.x到4.x，Linux内核这十年经历了哪些重要变革](http://blog.jobbole.com/90963/)  
+26 [关于 Linux 进程你所需要知道的一切](http://blog.jobbole.com/111053/)  
+27 [Linux 系统下 init 进程的前世今生](http://blog.jobbole.com/111610/)  
+28 
 29 [深入理解Linux修改hostname](http://blog.jobbole.com/90999/)  
 30 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
 31 [Linux 内存管理: Kmalloc](http://blog.jobbole.com/91820/)  
@@ -67,6 +67,13 @@
 60 [Linux 下系统调用的三种方法](http://blog.jobbole.com/107453/)  
 61 [Linux 下进程权限分析](http://blog.jobbole.com/107795/)  
 62 [Linux开机启动(bootstrap)](http://blog.jobbole.com/108107/)  
+63 [Linux 开机引导和启动过程详解](http://blog.jobbole.com/112277/)  
+64 [Linux 系统开机启动项清理](http://blog.jobbole.com/112384/)  
+65 [漫谈传统的 Linux 初始化系统的运行级别](http://blog.jobbole.com/112479/)  
+66 [什么是僵尸进程，如何找到并杀掉僵尸进程？](http://blog.jobbole.com/113333/)  
+
+
+
 
 ## 内核 ##
 >
@@ -88,7 +95,15 @@
 16 [linux 内核 RCU机制详解](http://blog.jobbole.com/107958/)  
 17 [如何实现内核旁路（Kernel bypass）？](http://blog.jobbole.com/94976/)  
 18 [关于Epoll，你应该知道的那些细节](http://blog.jobbole.com/108016/)  
-19 
+19 [Linux 内核中断和中断处理（1）](http://blog.jobbole.com/90531/)  
+20 [Linux kernel 的设计是否已经过时？](http://blog.jobbole.com/111023/)  
+21 [Linux 内核 3.3 和 3.4 简介](http://blog.jobbole.com/24419/)  
+22 [Linux kernel测试初探](http://blog.jobbole.com/31690/)  
+23 [从2.x到4.x，Linux内核这十年经历了哪些重要变革](http://blog.jobbole.com/90963/)  
+24 [Linux 内核驱动中对文件的读写](http://blog.jobbole.com/111837/)  
+25 [使用 Kdump 检查 Linux 内核崩溃](http://blog.jobbole.com/112099/)  
+26 [Linux 内核学习经验总结](http://blog.jobbole.com/113076/)
+
 
 ## 驱动 ##
 
@@ -150,7 +165,16 @@
 19 [理解inode](http://blog.jobbole.com/108015/)  
 20 [Linux 文件类型与扩展名](http://blog.jobbole.com/109254/)  
 21 [Linux 文件属性详解](http://blog.jobbole.com/105269/)  
-22 
+22 [浅析 Linux 的共享内存与 tmpfs 文件系统](http://blog.jobbole.com/111665/)  
+23 [Linux 的 EXT4 文件系统的历史、特性以及最佳实践](http://blog.jobbole.com/111885/)  
+24 [文件系统层次标准（FHS）简介](http://blog.jobbole.com/112121/)  
+25 [Linux 系统上的可视化比较与合并工具 Meld](http://blog.jobbole.com/112344/)  
+26 [给中级 Meld 用户的实用技巧](http://blog.jobbole.com/112348/)  
+27 
+
+
+
+
 
 <div style="text-align:center;"><img src="FileSystem.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div> 
 
@@ -175,11 +199,12 @@
 16 [幽默讲解 Linux 的 Socket IO 模型](http://blog.jobbole.com/107592/)  
 17 [Linux 编程之 Socket](http://blog.jobbole.com/107743/)  
 18 [一个 Linux 上分析死锁的简单方法](http://blog.jobbole.com/109743/)  
-19 
+19 [常用 GDB 命令中文速览](http://blog.jobbole.com/112547/)  
+20 [Linux 中高效编写 Bash 脚本的 10 个技巧](http://blog.jobbole.com/111514/)  
 
 
 
-**网络原理**
+## 网络原理 ##
 >
 1 [Linux系统IP路由基础（第1部分）](http://blog.jobbole.com/19235/)  
 2 [Linux中最受欢迎的邮件传输代理（MTA）](http://blog.jobbole.com/21741/)  
@@ -219,10 +244,21 @@
 36 [SSH原理与运用（1）：远程登录](http://blog.jobbole.com/107483/)  
 37 [SSH原理与运用（2）：远程操作与端口转发](http://blog.jobbole.com/107840/)  
 38 [Linux 修改本机 /etc/hosts 的 hostName 后经常不生效](http://blog.jobbole.com/107588/)  
+39 [Linux DNS 服务器安装、配置和维护](http://blog.jobbole.com/110903/)  
+40 [25 个常用的 Linux iptables 规则](http://blog.jobbole.com/108468/)  
+41 [Linux 下网络协议分析器 Wireshark 使用基础](http://blog.jobbole.com/111051/)  
+42 [Linux TCP GSO 和 TSO 实现](http://blog.jobbole.com/111668/)  
+43 [ss：查看网络连接的另一种方法](http://blog.jobbole.com/112061/)  
+44 [7 个使用 bcc/BPF 的性能分析神器](http://blog.jobbole.com/113328/)  
+45 
 
 
 
-**数据结构与算法**
+
+
+
+
+## 数据结构与算法 ##
 >
 1 [为什么 GNU grep 如此之快？](http://blog.jobbole.com/52313/)  
 2 [几种压缩算法实现原理详解](https://blog.csdn.net/ghevinn/article/details/45747465)  
@@ -236,9 +272,11 @@
 
 >
 1 [8 个基本的 Docker 容器管理命令](http://blog.jobbole.com/114145/)  
-2 [一位开发者的 Linux 容器之旅](http://blog.jobbole.com/94904/)
+2 [一位开发者的 Linux 容器之旅](http://blog.jobbole.com/94904/)  
+3 [Linux 容器 vs 虚拟机 —— 谁更胜一筹](http://blog.jobbole.com/113114/)
 
-**Linux管理**
+
+## Linux管理 ##
 >
 1 [你需要知道的16个Linux服务器监控命令](http://blog.jobbole.com/15430/)   
 2 [使用Shell脚本对Linux系统和进程资源进行监控](http://blog.jobbole.com/22318/)  
@@ -276,19 +314,34 @@
 34 [Linux 下 CPU 使用率与机器负载的关系与区别](http://blog.jobbole.com/105326/)  
 35 [Linux 中设置服务自启动的三种方式](http://blog.jobbole.com/107446/)  
 36 [sudo 命令情景分析](http://blog.jobbole.com/107666/)  
+37 [使用 Nmon 监控 Linux 的系统性能](http://blog.jobbole.com/111587/)  
+38 [理解 Linux 的平均负载和性能监控](http://blog.jobbole.com/111590/)  
+39 [系统管理员应该知道的 20 条 Linux 命令](http://blog.jobbole.com/112085/)  
+40 [如何在 Linux 系统中通过用户组来管理用户](http://blog.jobbole.com/113200/)  
+41 [如何自动唤醒和关闭 Linux](http://blog.jobbole.com/113203/)  
+42 [如何在 Linux 下统计高速网络中的流量](http://blog.jobbole.com/113226/)  
 
 
-**Linux运维**
+
+
+
+## Linux运维 ##
 >
 1 [CentOS 7下搭建高可用集群](http://blog.jobbole.com/98446/)  
 2 [Linux企业运维高效技巧心得及分享](http://blog.jobbole.com/97568/)  
+3 [12 条用于 Linux 的 MySQL/MariaDB 安全最佳实践](http://blog.jobbole.com/113422/)  
+
 
 
 ## 日志系统 ##
 
 >
-1 [在 Linux 中使用日志来排错](http://blog.jobbole.com/90740/)    
-
+1 [在 Linux 中使用日志来排错](http://blog.jobbole.com/90740/)  
+2 [Linux 日志终极指南](http://blog.jobbole.com/110660/)    
+3 [Linux 下 logrotate 日志轮询操作梳理](http://blog.jobbole.com/111385/)  
+4 [Linux 日志定时轮询流程详解](http://blog.jobbole.com/111405/)  
+5 [用系统日志了解你的 Linux 系统](http://blog.jobbole.com/113363/)  
+6 
 
 
 **命令行**  
@@ -341,6 +394,18 @@
 47 [如何按最后修改时间对 ls 命令的输出进行排序](http://blog.jobbole.com/109704/)  
 48 [如何在 Linux 中找出最近或今天被修改的文件](http://blog.jobbole.com/109708/)  
 49 [3 个在 Linux 中永久并安全删除文件和目录的方法](http://blog.jobbole.com/109930/)  
+50 [自动补全不算什么，一键直达目录才是终极神器](http://blog.jobbole.com/110802/)  
+51 [千万千万不要运行的 Linux 命令](http://blog.jobbole.com/110923/)  
+52 [Linux 中引号的那些事](http://blog.jobbole.com/111141/)  
+53 [Linux Bash 提示符的一些骚操作](http://blog.jobbole.com/111971/)  
+54 [Linux - 请允许我静静地后台运行](http://blog.jobbole.com/111850/)  
+55 [在 Linux 中分割和重组文件](http://blog.jobbole.com/112303/)  
+56 [六个优雅的 Linux 命令行技巧](http://blog.jobbole.com/112306/)  
+57 [di：比 df 更有用的磁盘信息工具](http://blog.jobbole.com/112535/)  
+58 
+
+
+
 
 **面试**
 >
@@ -356,7 +421,7 @@
 3 [如何在 Linux 下大量屏蔽恶意 IP 地址](http://blog.jobbole.com/84478/)  
 4 [10大白帽黑客专用的 Linux 操作系统](http://blog.jobbole.com/97895/)  
 5 [Linux fork 炸弹解析，Linux Fork Bomb](http://blog.jobbole.com/100935/)  
-6 
+6 [如何判断 Linux 服务器是否被入侵？](http://blog.jobbole.com/113205/)  
 
 **Linux 思想**
 >
@@ -399,6 +464,9 @@
 30 [玩转 Windows 10 中的 Linux 子系统](http://blog.jobbole.com/104012/)  
 31 [Terminator：一款一个窗口包含多个终端的 Linux 终端仿真器](http://blog.jobbole.com/106728/)  
 32 [Unix版权史](http://blog.jobbole.com/107834/)  
+33 [如何在一个 U 盘上安装多个 Linux 发行版](http://blog.jobbole.com/112707/)  
+
+
 
 
 **人物传记**  
