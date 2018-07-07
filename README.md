@@ -1,4 +1,4 @@
-# Linux Projects #
+# Linux Projects #结构说明及用途介绍
 
 
 
@@ -32,7 +32,7 @@
 25 [CGroup 介绍、应用实例及原理描述](http://blog.jobbole.com/89176/)  
 26 [关于 Linux 进程你所需要知道的一切](http://blog.jobbole.com/111053/)  
 27 [Linux 系统下 init 进程的前世今生](http://blog.jobbole.com/111610/)  
-28 
+28 [当你在 Linux 上启动一个进程时会发生什么？](http://blog.jobbole.com/113506/)  
 29 [深入理解Linux修改hostname](http://blog.jobbole.com/90999/)  
 30 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
 31 [Linux 内存管理: Kmalloc](http://blog.jobbole.com/91820/)  
@@ -170,7 +170,10 @@
 24 [文件系统层次标准（FHS）简介](http://blog.jobbole.com/112121/)  
 25 [Linux 系统上的可视化比较与合并工具 Meld](http://blog.jobbole.com/112344/)  
 26 [给中级 Meld 用户的实用技巧](http://blog.jobbole.com/112348/)  
-27 
+27 [Linux 下各文件夹的结构说明及用途介绍](http://blog.jobbole.com/113519/)  
+28 [如何统计 Linux 中文件和文件夹/目录的数量](http://blog.jobbole.com/113624/)  
+29 
+
 
 
 
@@ -250,7 +253,9 @@
 42 [Linux TCP GSO 和 TSO 实现](http://blog.jobbole.com/111668/)  
 43 [ss：查看网络连接的另一种方法](http://blog.jobbole.com/112061/)  
 44 [7 个使用 bcc/BPF 的性能分析神器](http://blog.jobbole.com/113328/)  
-45 
+45 [如何在 Linux/Unix/Windows 中发现隐藏的进程和端口](http://blog.jobbole.com/113593/)  
+46 
+
 
 
 
@@ -402,7 +407,10 @@
 55 [在 Linux 中分割和重组文件](http://blog.jobbole.com/112303/)  
 56 [六个优雅的 Linux 命令行技巧](http://blog.jobbole.com/112306/)  
 57 [di：比 df 更有用的磁盘信息工具](http://blog.jobbole.com/112535/)  
-58 
+58 [Pick：一款 Linux 上的命令行模糊搜索工具](http://blog.jobbole.com/113480/)  
+59 [Linux 的 fmt 命令用法与案例](http://blog.jobbole.com/113479/)  
+60 
+
 
 
 
