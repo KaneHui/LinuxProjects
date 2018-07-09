@@ -1,4 +1,4 @@
-# Linux Projects #结构说明及用途介绍
+# Linux Projects #
 
 
 
@@ -9,10 +9,10 @@
 2 [调试器工作原理（2）：实现断点](http://blog.jobbole.com/23632/)  
 3 [调试器工作原理（3）：调试信息](http://blog.jobbole.com/24916/)  
 4 [定位 UNIX 上常见问题的经验总结](http://blog.jobbole.com/22133/)  
-5 
+5 [什么是僵尸进程，如何找到并杀掉僵尸进程？](http://blog.jobbole.com/113333/)  
 6 [王垠：Unix的缺陷](http://blog.jobbole.com/25792/)  
 7 [Linux 灾难恢复](http://blog.jobbole.com/27956/)  
-8 
+8 [漫谈传统的 Linux 初始化系统的运行级别](http://blog.jobbole.com/112479/)  
 9 [OSdev](https://wiki.osdev.org/Main_Page)  
 10 
 11 [Linux 内存使用方法详细解析](http://blog.jobbole.com/45748/)  
@@ -20,21 +20,21 @@
 13 [Linux 的启动流程](http://blog.jobbole.com/46078/)  
 14 [Linux 系统中随机数在 KVM 中的应用](https://www.ibm.com/developerworks/cn/linux/1404_caobb_kvmrandom/index.html?ca=drs-)  
 15 [磁盘分区对齐详解与配置 – Linux篇](http://blog.jobbole.com/70419/)  
-16 [编写属于你的第一个Linux内核模块](http://blog.jobbole.com/72115/)  [代码](https://github.com/vsinitsyn/reverse)  
-17 [编写最简单的内核：HelloWorld](http://blog.jobbole.com/79249/)  
+16 
+17 
 18 [浅析 Linux 初始化 init 系统（1）：sysvinit](http://blog.jobbole.com/85076/)  
 19 [浅析 Linux 初始化 init 系统（2）： UpStart](http://blog.jobbole.com/85107/)  
 20 [浅析 Linux 初始化 init 系统（3） Systemd](http://blog.jobbole.com/85070/)  
-21 [Linux 内核里的“智能指针”](http://blog.jobbole.com/88279/)  
+21 
 22 [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)  
-23 [Linux 内核内存管理（1）](http://blog.jobbole.com/88452/)  
+23 
 24 [Linux资源管理之cgroups简介](http://blog.jobbole.com/88836/)  
 25 [CGroup 介绍、应用实例及原理描述](http://blog.jobbole.com/89176/)  
 26 [关于 Linux 进程你所需要知道的一切](http://blog.jobbole.com/111053/)  
 27 [Linux 系统下 init 进程的前世今生](http://blog.jobbole.com/111610/)  
 28 [当你在 Linux 上启动一个进程时会发生什么？](http://blog.jobbole.com/113506/)  
 29 [深入理解Linux修改hostname](http://blog.jobbole.com/90999/)  
-30 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
+30 
 31 [Linux 内存管理: Kmalloc](http://blog.jobbole.com/91820/)  
 32 [Linux 内存管理: Kmalloc(2)](http://blog.jobbole.com/91828/)  
 33 [Linux 内存管理：Kmem_cache_init](http://blog.jobbole.com/91883/)  
@@ -53,7 +53,7 @@
 46 [Linux性能及调优指南：内存架构](http://blog.jobbole.com/105148/)  
 47 [Linux性能及调优指南：进程管理](http://blog.jobbole.com/105135/)  
 48 [Linux 中断处理原理分析](http://blog.jobbole.com/105524/)  
-49 [Linux 3.10 kernel bridge 转发逻辑](http://blog.jobbole.com/105787/)  
+49 
 50 [Linux 进程状态浅析](http://blog.jobbole.com/106165/)  
 51 [Linux 进程调度浅析](http://blog.jobbole.com/106168/)  
 52 [Linux 组调度浅析](http://blog.jobbole.com/106189/)  
@@ -69,8 +69,6 @@
 62 [Linux开机启动(bootstrap)](http://blog.jobbole.com/108107/)  
 63 [Linux 开机引导和启动过程详解](http://blog.jobbole.com/112277/)  
 64 [Linux 系统开机启动项清理](http://blog.jobbole.com/112384/)  
-65 [漫谈传统的 Linux 初始化系统的运行级别](http://blog.jobbole.com/112479/)  
-66 [什么是僵尸进程，如何找到并杀掉僵尸进程？](http://blog.jobbole.com/113333/)  
 
 
 
@@ -102,7 +100,17 @@
 23 [从2.x到4.x，Linux内核这十年经历了哪些重要变革](http://blog.jobbole.com/90963/)  
 24 [Linux 内核驱动中对文件的读写](http://blog.jobbole.com/111837/)  
 25 [使用 Kdump 检查 Linux 内核崩溃](http://blog.jobbole.com/112099/)  
-26 [Linux 内核学习经验总结](http://blog.jobbole.com/113076/)
+26 [Linux 内核学习经验总结](http://blog.jobbole.com/113076/)  
+27 [Linux 跟踪器之选](http://blog.jobbole.com/113735/)  
+28 [Linux 启动过程分析](http://blog.jobbole.com/113768/)  
+29 [Linux 中的“大内存页”（hugepage）是个什么？](http://blog.jobbole.com/113782/)  
+30 [如何编译 Linux 内核](http://blog.jobbole.com/114047/)  
+31 [Linux 3.10 kernel bridge 转发逻辑](http://blog.jobbole.com/105787/)  
+32 [Linux 内核里的“智能指针”](http://blog.jobbole.com/88279/)  
+33 [编写最简单的内核：HelloWorld](http://blog.jobbole.com/79249/)  
+34 [编写属于你的第一个Linux内核模块](http://blog.jobbole.com/72115/)  [代码](https://github.com/vsinitsyn/reverse)  
+35 [Linux 内核同步机制](http://blog.jobbole.com/91784/)  
+36 [Linux 内核内存管理（1）](http://blog.jobbole.com/88452/)  
 
 
 ## 驱动 ##
@@ -172,7 +180,13 @@
 26 [给中级 Meld 用户的实用技巧](http://blog.jobbole.com/112348/)  
 27 [Linux 下各文件夹的结构说明及用途介绍](http://blog.jobbole.com/113519/)  
 28 [如何统计 Linux 中文件和文件夹/目录的数量](http://blog.jobbole.com/113624/)  
-29 
+29 [Linux 主目录中的隐藏文件是干什么用的？](http://blog.jobbole.com/113719/)  
+30 [Linux 目录结构：/lib 分析](http://blog.jobbole.com/113930/)  
+31 [详解 Linux 文档属性、拥有者、群组、权限、差异](http://blog.jobbole.com/114031/)  
+32 [比起 Windows，怎样解读 Linux 的文件系统与目录结构？](http://blog.jobbole.com/114084/)  
+33 [Linux 文件系统详解](http://blog.jobbole.com/114189/)  
+
+
 
 
 
@@ -254,7 +268,9 @@
 43 [ss：查看网络连接的另一种方法](http://blog.jobbole.com/112061/)  
 44 [7 个使用 bcc/BPF 的性能分析神器](http://blog.jobbole.com/113328/)  
 45 [如何在 Linux/Unix/Windows 中发现隐藏的进程和端口](http://blog.jobbole.com/113593/)  
-46 
+46 [在 Linux 中自动配置 IPv6 地址](http://blog.jobbole.com/113771/)  
+47 
+
 
 
 
@@ -278,7 +294,8 @@
 >
 1 [8 个基本的 Docker 容器管理命令](http://blog.jobbole.com/114145/)  
 2 [一位开发者的 Linux 容器之旅](http://blog.jobbole.com/94904/)  
-3 [Linux 容器 vs 虚拟机 —— 谁更胜一筹](http://blog.jobbole.com/113114/)
+3 [Linux 容器 vs 虚拟机 —— 谁更胜一筹](http://blog.jobbole.com/113114/)  
+5   
 
 
 ## Linux管理 ##
@@ -325,6 +342,12 @@
 40 [如何在 Linux 系统中通过用户组来管理用户](http://blog.jobbole.com/113200/)  
 41 [如何自动唤醒和关闭 Linux](http://blog.jobbole.com/113203/)  
 42 [如何在 Linux 下统计高速网络中的流量](http://blog.jobbole.com/113226/)  
+43 [使用 sar 和 kSar 来发现 Linux 性能瓶颈](http://blog.jobbole.com/113696/)  
+44 [Linux 权限控制的基本原理](http://blog.jobbole.com/114087/)  
+45 [在 Linux 上用 DNS 实现简单的负载均衡](http://blog.jobbole.com/114157/)  
+46 [通过可写文件获取 Linux root 权限的 5 种方法](http://blog.jobbole.com/114159/)  
+47 
+
 
 
 
@@ -348,8 +371,8 @@
 5 [用系统日志了解你的 Linux 系统](http://blog.jobbole.com/113363/)  
 6 
 
-
-**命令行**  
+## 命令行 ##
+  
 >
 1 [28个Unix/Linux的命令行神器](http://blog.jobbole.com/23638/)    
 2 [8 个实用的 Linux netcat 命令示例](http://blog.jobbole.com/18131/)  
@@ -409,7 +432,13 @@
 57 [di：比 df 更有用的磁盘信息工具](http://blog.jobbole.com/112535/)  
 58 [Pick：一款 Linux 上的命令行模糊搜索工具](http://blog.jobbole.com/113480/)  
 59 [Linux 的 fmt 命令用法与案例](http://blog.jobbole.com/113479/)  
-60 
+60 [给 rm 命令添加个「垃圾桶」](http://blog.jobbole.com/113737/)  
+61 [为初学者准备的 ln 命令教程（5 个示例）](http://blog.jobbole.com/113800/)  
+62 [给初学者的 type 命令教程](http://blog.jobbole.com/113817/)  
+63 [精通 Linux 的 “kill” 命令](http://blog.jobbole.com/113894/)  
+64 [Pet：一个简单的命令行片段管理器](http://blog.jobbole.com/113949/)  
+65 [在 Linux 上复制和重命名文件](http://blog.jobbole.com/114148/)  
+
 
 
 
