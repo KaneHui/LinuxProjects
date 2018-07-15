@@ -220,6 +220,42 @@ LILO要用lilo命令来配置和安装。lilo命令根据文件/etc/lilo.conf的
 	  	  label=backup   
 	  	  read-only
 
+- 每种可能的引导情形都有一个标签。在引导时，用户通过输入合适的标签就可以告诉LILO使用 哪一个标签来引导。出现在lilo.conf中的第一个标签成为默认的引导标签。
+- 在默认的情况下（名为linux）弓I导内核文件/vmlinuz。“read-only”标记指出内核应该以只读方式安装它的根文件系统。一定要有这个选项，启动脚本在适当的时候将以读写方式来重新安装这个分区。这个系统还配置成可以从备份内核/vinlinuz-backup进行引导。有这么一个备选方案总是一个好主意，内核配置受损的话会致使系统无法启动。
+- 不带任何参数去运行lilo命令将生成并安装引导加载程序，而且告诉用户有哪些引导项可供使用。 它在默认的引导映像旁边打一个星号。不过，如果用户已经在lilo.conf文件中犯了某个错误，lilo通常要到引导加载程序安装到半途中才会发现这个问题。当这种情况发生时，引导加载程序就陷入一种混乱状态。在您成功地运行了lilo命令之前不要重新启动系统。
+- 为了避免陷入这种状态，可以运行lilo -t来测试配置而不真的去安装它。如果一切看上去正常，那么就可以运行lilo进行实际安装。  
+
+针对上述配置文件运行lilo,其输出如下：
+
+	# lilo	
+
+	Added linux*		
+	Added backup
+当系统引导时，LILO显示下面的提示符：  
+
+	LILO:
+等待2秒（20个1/10秒，用delay标记来设置），然后引导/vmlinuz内核并把第一个IDE硬盘 的第一个分区安装为根分区。按下<TAB>键，可以看到已经定义好的引导方案：
+
+	LILO: <Tab> 
+	linux backup 
+	LILO:
+要使用另外一种方案进行引导，只要在提示符处输入它的标签即可。
+
+
+
+
+
+#### 2.3.3 内核选项 ####
+
+LILO和GRUB都能把命令行选项传给内核。这些选项往往用来修改内核参数的取值，命令内核探测特殊的设备，指定init所在的路径，或者指派一个特定的根设备。表2.3给出了几个例子。
+
+<div style="text-align:center;"><img src="img/Handbook_table_2_3.png" alt="SNPE" width="80%" height="60%"><br><br><b></b></div>
+
+
+#### 2.3.4 PC上的多重引导 ####
+
+- 由于PC上可以运行多种操作系统，因此配置一台机器使它能够引导几种不同的系统就成为相当 常见的做法。要实现这一点，需要配置一个引导加载程序能认出磁盘上所有不同的操作系统
+- 每个磁盘分区都可以拥有自己的第二阶段的引导加载程序。但是，整个磁盘却只有一个MBR。 在建立多重引导配置时，必须决定哪一个引导加载程序将成为“主"引导加载程序。不管如何，您所做出的选择将取决于涉及到的各个操作系统的特性。对于有一个Linux分区的系统来说，LILO和GRUB 通常是最佳选择。在多重引导的情况下，GRUB要比LILO更好。
 
 
 
@@ -227,8 +263,40 @@ LILO要用lilo命令来配置和安装。lilo命令根据文件/etc/lilo.conf的
 
 
 
+#### 2.3.5	GRUB的多重引导配置 ####
+
+多重引导的GRUB系统和单一引导的GRUB系统很相像。先装好所有想要的操作系统，然后再 对/boot/grub/grub.eonf做相应的修改。弓I导Windows的grub.eonf配置看上去和引导UNIX或者Linux系统的配置不一样：
+
+	title Windows XP
+
+		  rootnoverify (hd0,0) 
+
+		  chainloader +1
+chainloader这个选项从一个指定的位置加载引导加载程序(本例中是主IDE驱动器上第一个分区 的第一个扇区rootnoverify选项确保GRUB不会尝试安装指定的分区。这个选项避免了 GRUB 被它所不能理解的分区搞糊涂，比如NTFS分区或者GRUB所能读取的范围之外的其他分区。
+下面的grub.conf文件能够从分区1引导Windows XP，从分区2引导Red Hat Enterprise Linux, 还能从分区3引导Fedora:
+
+	default=0
+	
+	timeout=5
+	
+	splashimage=(hd0,2)/boot/grub/splash.xpm.gz
+	
+	hiddenmenu
+	
+	title Windows XP	
+		  rootnoverify (hd0,0) 
+		  chainloader +1
+	
+	title Red Hat 
+		  root (hd0,l) 
+		  kernel /boot/vmlinuz
+	
+	title Fedora	
+		  root (hd0,2)
+		  kernel /boot/vmlinuz
 
 
+#### 2.3.6 LILO的多重引导配置 ####
 
 
 ### 2.7 习题 ###
