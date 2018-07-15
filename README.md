@@ -539,3 +539,4 @@
 13 [那些被岁月遗忘的 UNIX 经典著作](http://blog.jobbole.com/103989/)  
 14 [全栈必备：Linux 基础](http://blog.jobbole.com/106827/)  
 15 [高效 Unix 管理员的 7 个习惯](http://blog.jobbole.com/107956/)  
+16 L[inux学习笔记](https://shimo.im/doc/6Z5SEmpfo8w5loVE?r=EEXJX3)    
